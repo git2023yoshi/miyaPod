@@ -1,8 +1,12 @@
 #include <stdio.h>
+#include "hogepod.h"
 
 int main(void)
 {
 	struct ALBUM *album;
-	printf("Hello, world\n");
-	return 0;
+
+
+	hogepod_main_menu();
+
+return 0;
 }
