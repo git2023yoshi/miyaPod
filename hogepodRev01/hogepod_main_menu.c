@@ -11,3 +11,5 @@ void hogepod_main_menu(){
 	printf("choose number? > ");
 return;
 }
+
+
